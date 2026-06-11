@@ -98,8 +98,8 @@ sudo zypper install cmake extra-cmake-modules qt6-base-devel \
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/astro-thumb.git
-cd astro-thumb
+git clone https://github.com/miroslav-bakos/kio-astro-thumbnailer.git
+cd kio-astro-thumbnailer
 
 # 2. Configure
 cmake -B build
